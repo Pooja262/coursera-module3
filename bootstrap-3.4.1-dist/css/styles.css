@@ -49,9 +49,13 @@ body{
 
 #chicken{
     margin-bottom:20px;
+    width:90%;
 }
 #beef{
   margin-bottom:20px;
+  width:90%;
+#sushi{
+  width:90%;
 }
 
 /*** Large devices only ***/
